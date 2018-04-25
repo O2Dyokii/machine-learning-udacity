@@ -1,4 +1,4 @@
-用Python 统计高频字数
+# 用Python 统计高频字数
 
 用 Python 统计字数
 问题

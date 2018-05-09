@@ -1,1 +1,4 @@
-# machine-learning-udacity
+# Machine-Learning-Udacity
+
+## Project 0
+   Titanic Survival

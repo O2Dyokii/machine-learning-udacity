@@ -1,4 +1,4 @@
-# Machine-Learning-NanoDegree
+# Machine-Learning-Nanodegree
 
 ## Titanic Survival
 项目：探索泰坦尼克号乘客存活情况

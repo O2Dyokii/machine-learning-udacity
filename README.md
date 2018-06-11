@@ -73,7 +73,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./images/sample_dog_output.png "sample_cnn"
+[image1]: .dog_classification/images/sample_dog_output.png "sample_cnn"
 
 项目概况：
 欢迎来到卷积神经网络（CNN）项目！在这一项目中，你将学到如何建立一个处理现实生活中的，用户提供的图像的算法。给你一个狗的图像，你的算法将会识别并估计狗的品种，如果提供的图像是人，代码将会识别最相近的狗的品种。

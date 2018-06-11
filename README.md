@@ -73,7 +73,7 @@
 
 [//]: # (Image References)
 
-[image1]: .dog_classification/images/sample_cnn.png "Sample Output"
+[image1]: ./dog_classification/images/sample_cnn.png "Sample Output"
 
 ![Sample Output][image1]
 
